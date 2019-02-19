@@ -25,7 +25,7 @@
 #### References:
 > [Udacity's Github Repository](https://github.com/udacity/ud864)
 * This repository was provided in [Lesson 17](https://classroom.udacity.com/nanodegrees/nd001/parts/e87c34bf-a9c0-415f-b007-c2c2d7eead73/modules/4fd8d440-9428-4de7-93c0-4dca17a36700/lessons/8304370457/concepts/83122494440923).
-* References for /* -----S-H-O-W---A-N-D---H-I-D-E---F-U-N-C-T-I-O-N-S---F-O-R---M-A-R-K-E-R-S */, /* -----M-A-R-K-E-R-----S-T-Y-L-I-N-G----- */, /* -----D-R-A-W-I-N-G-----T-O-O-L-B-A-R----- */ were taken from [here](https://github.com/udacity/ud864/blob/master/Project_Code_7_Drawing.html).
+* References for `SHOW AND HIDE FUNCTIONS FOR MARKERS`, `MARKER STYLING`, `DRAWING TOOLBAR` were taken from [here](https://github.com/udacity/ud864/blob/master/Project_Code_7_Drawing.html).
 > References for Knockout Javascript were taken from [here](http://knockoutjs.com/documentation/event-binding.html).
 > References for creating Navbar from [here](https://codepen.io/simoberny/pen/pJZJQY).
 
