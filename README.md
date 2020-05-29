@@ -18,13 +18,13 @@ The project is also hosted on [GitHub](https://madhur-taneja.github.io/Neighborh
   - [Part 4: Creating and coding Javascript in app.js and init.js](#part-4-creating-and-coding-javascript-in-appjs-and-initjs)
 - [References](#references)
 
-## Getting started
+## Getting Started
 
 * The aim of this Project is to make a "Map of a Neighborhood" showing famous local Eating Joints with their ratings.
 
-* This project is a part of Udacity's Front-End Web Developer Nanodegree program. The project will be evaluated by a Udacity code reviewer according to the Landing Page project [rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
+* This project was made from scratch and is a part of Udacity's Front-End Web Developer Nanodegree program. The project will be evaluated by a Udacity code reviewer according to the Landing Page project [rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
 
-### Tools required
+### Tools Required
 
 * [Google Maps API](https://developers.google.com/maps/web/) to load map
 * [Foursquare API](https://foursquare.com/developers/app/XQ2I0ONGSSVL1DYQYSK2Q0ERIM5ASTRANA5FRG41HTTXVKQB) to fetch data for the eating joints
@@ -75,7 +75,7 @@ The project is also hosted on [GitHub](https://madhur-taneja.github.io/Neighborh
     Show and Hide Markers <br>
     Create, toggle and add features to `Drawing Toolbar` <br>
 
-For details now how these functionalities have been implemented, refer the sourcecode. 
+For details now how these functionalities have been implemented, refer the source code. 
 
 **App is completed! Have fun exploring delicious places!**
 
