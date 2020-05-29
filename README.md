@@ -10,19 +10,20 @@ The project is also hosted on [GitHub](https://madhur-taneja.github.io/Neighborh
 
 - [Getting Started](#getting-started)
 	- [Tools Required](#tools-required)
-  - [Running the App](#running-the-app)
+	- [Installation](#installation)
 - [Development](#development)
   - [Part 1: Google Maps API and Foursquare API](#part-1-google-maps-api-and-foursquare-api)
   - [Part 2: Include jQuery and Knockout Javascript](#part-2-include-jquery-and-knockout-javascript)
   - [Part 3: Include CSS file, Bootstrap library and Google Fonts](#part-3-include-css-file-bootstrap-library-and-google-fonts)
   - [Part 4: Creating and coding Javascript in app.js and init.js](#part-4-creating-and-coding-javascript-in-appjs-and-initjs)
+- [Running the App](#running-the-app)
 - [References](#references)
 
 ## Getting Started
 
-* The aim of this Project is to make a "Map of a Neighborhood" showing famous local Eating Joints with their ratings.
+The aim of this Project is to make a "Map of a Neighborhood" showing famous local Eating Joints with their ratings.
 
-* This project was made from scratch and is a part of Udacity's Front-End Web Developer Nanodegree program. The project will be evaluated by a Udacity code reviewer according to the Landing Page project [rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
+This project was made from scratch and is a part of Udacity's Front-End Web Developer Nanodegree program. The project will be evaluated by a Udacity code reviewer according to the project [rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
 
 ### Tools Required
 
@@ -40,11 +41,9 @@ The project is also hosted on [GitHub](https://madhur-taneja.github.io/Neighborh
 * [Online Markdown Editor](http://dillinger.io/) to test `README.md`
 * [Google Maps Animation](https://developers.google.com/maps/documentation/javascript/examples/marker-animations) to animate markers
 
-### Running the App
+### Installation
 
-> Open the project through the `.zip` file provided and extract file
-  * Open `index.html`
-  * Click on the list or the markers on map to see ratings for that particular Eating Joint
+No additional installation is required for this project
 
 ## Development
 
@@ -78,6 +77,13 @@ The project is also hosted on [GitHub](https://madhur-taneja.github.io/Neighborh
 For details now how these functionalities have been implemented, refer the source code. 
 
 **App is completed! Have fun exploring delicious places!**
+
+## Running the App
+
+* Open the project through the `.zip` file provided and extract file
+  > Open `index.html` in the browser of your choice.
+* Click on the list or the markers on map to see ratings for that particular Eating Joint
+* User the search bar to filter out the restaurants in the list as well as in the map 
 
 ## References:
 * [Udacity's Github Repository](https://github.com/udacity/ud864)
